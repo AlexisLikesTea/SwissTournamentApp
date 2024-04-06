@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My ApplicationANOTEHR2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Start</string>
+    <string name="second_fragment_label">Matches</string>
+    <string name="results_fragment_label">Results</string>
+    <string name="next">Next</string>
+    <string name="Begin">Begin</string>
+    <string name="previous">Previous</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
